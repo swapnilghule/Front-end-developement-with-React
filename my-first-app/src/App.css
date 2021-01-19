@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css?family=Tangerine');
+
+.navbar-dark {
+  background-color:  #E0E0E0;
+}
+
+.footer{
+background-color: #3f3f3f;
+ color:#d5d5d5;
+ padding-top:2.5rem;
+
+}
+
+.fa-cube{
+color: #4db33d;
+}
+
+.fa-subway{
+  color: #800000;
+}
+
+.fa-chevron-circle-up{
+  color:#;
+}
+.fa-java{
+  color:red;
+}
+
+.fa-code{
+  color:#d13f34;
+}
+.fa-file-text-o{
+  color:#FF0000;
+}
+
+
+.fa-gear{
+  color:#76d7ea ;
+}
+.fa-bold{
+  color:#0275d8;
+}
+
+.fa-css3{
+  color:  #FFA500 ;
+}
+
+
+
+
+.my-4{
+  color:#000000;
+}
+
+.fa-linkedin{
+  color:#0072b1;
+}
+
+.fa-github{
+   color:#211f1f;
+}
+
+
+.fa-instagram{
+  color:#517fa4;
+}
+
+.font{
+  font-family: Mandalika;
+
+}
+.fa-twitter{
+  color:#00acee ;
+}
+.center{
+  text-align: center;
+     font-family:helvetica;
+     font-style: bold;
+
+}
+.carousel-text{
+  font-size: 300%;
+  font-family:Helvetica;
+  font-style: bold;
+}
+.nav-item, .text-family{
+  color:  #383838;
+   font-family:helvetica;
+}
+
+ .fa-github:hover, .fa-linkedin:hover, .fa-instagram:hover , .fa-twitter:hover{
+color: #d5d5d5;
+}
+
+.page-enter{
+  opacity : 0.01;
+  transform: translateX(-100%);
+}
+
+.page-enter-active{
+  opacity: 1;
+  transform: translateX(0%);
+  transition: all 300ms ease-in;
+}
+
+
+.page-exit{
+  opacity: 1;
+  transform: translateX(0%);
+}
+
+
+.page-exit-active{
+  opacity: 0.01;
+  transform: translateX(100%);
+  transition: all 300ms ease-out;
+}
+.row-header {
+  margin: 0px auto;
+  padding: 0px auto;
+}
+
+.row-content {
+  margin: 0px auto;
+  padding: 50px 0px 50px 0px;
+  border-bottom: 1px ridge;
+  min-height: 400px;
+}
+
+.jumbotron {
+  padding: 70px 30px 70px 30px;
+  margin: 0px auto;
+  background:   #3f3f3f;
+  font-size: 120%;
+  color: #d5d5d5;
+  font-family:helvetica;
+}
+
+
+.fa-mortar-board{
+
+  color : #3f3f3f;
+}
